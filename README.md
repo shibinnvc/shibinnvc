@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [Vyta](https://dev-app.vyta.ca/)
 
-- 🌱 I’m currently learning **Nodejs**
-
 - 💬 Ask me about **Flutter, Dart, Firebase, Git, Nodejs, Codemagic**
 
 - 📫 How to reach me **mhdshibinmkd@gmail.com**
