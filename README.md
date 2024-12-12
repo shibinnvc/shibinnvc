@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Vyta](https://dev-app.vyta.ca/)
 
-- 💬 Ask me about **Flutter, Dart, Firebase, Git, Nodejs, Codemagic**
+- 💬 Ask me about **Flutter, Dart, Firebase, Git, Django, Codemagic**
 
 - 📫 How to reach me **mhdshibinmkd@gmail.com**
 
